@@ -41,3 +41,8 @@ For Linux
 ```sh
 $ npm run package-linux
 ```
+---
+
+## Reference
+
+https://www.youtube.com/watch?v=kN1Czs0m1SU
